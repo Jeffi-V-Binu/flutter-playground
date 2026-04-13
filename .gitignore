@@ -1,0 +1,12 @@
+.idea/
+*.iml/
+out/
+.DS_Store
+*.log
+*.class
+*.pyc
+*.dex
+__pycache__/
+*~
+*.swp
+*.bak
