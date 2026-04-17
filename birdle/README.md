@@ -1,6 +1,6 @@
 # BIRDLE
     This is a simple implemntation of a wordle learning project from the flutter leerning pathway
-    [Check out the official page](https://docs.flutter.dev/learn/pathway/tutorial/create-an-app)
+[Check out the official page](https://docs.flutter.dev/learn/pathway/tutorial/create-an-app)
 -----------------------------------------------------------------------------------------------------------------------------------------------
 ## 🏗 Understanding the structure
      📁 Files :
